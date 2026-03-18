@@ -68,7 +68,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ```
 ecommerce-customer-analytics-project
 │
-├── dataset_link.txt
 ├── SQL_Analysis
 │   ├── 01_data_exploration.sql
 │   ├── 02_revenue_analysis.sql
